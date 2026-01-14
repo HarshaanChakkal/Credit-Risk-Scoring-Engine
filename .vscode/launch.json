@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CreditRiskEngineApplication<credit-risk-engine>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.harshaan.credit_risk_engine.CreditRiskEngineApplication",
+            "projectName": "credit-risk-engine",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
